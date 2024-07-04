@@ -1,0 +1,23 @@
+{
+  "name": "vsplatform",
+  "version": "1.0.0",
+  "description": "a video streaming platform backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "project-video"
+  },
+  "keywords": [
+    ":[",
+    "\"javascript\"",
+    "\"",
+    "backend\"",
+    "\"",
+    "VSPLATFORM\"]"
+  ],
+  "author": "Saumy Shukla",
+  "license": "ISC"
+}
